@@ -26,7 +26,7 @@
 
     }
   ],
-  "More":
+  "Morex":
   [
     {
       "id":1,
@@ -42,7 +42,7 @@
     }
   ],
   
-  "Categories": [
+  "Categoriesx": [
     {
       "name_category": "Koala Cartoon",
       "wallpaper_url": "https://wallpapercave.com/wp/wp10138671.jpg"
@@ -60,7 +60,7 @@
       "wallpaper_url": "https://wallpaper.dog/large/993923.jpg"
     }
   ],
-  "Wallpaper": [
+  "Wallpaperx": [
     {
       "id": 1,
       "name_category": "Koala Cartoon",
